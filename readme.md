@@ -6,6 +6,8 @@ Bem-vindo ao repositório oficial do evento **Cloud Immersion: Introdução à N
 
 Os materiais aqui contidos incluem apresentações, analogias divertidas, exemplos de tecnologias chave e recursos para estudo contínuo. Este repositório serve como referência pós-evento, permitindo que os participantes revisem o conteúdo, explorem as tecnologias mencionadas e avancem rumo à certificação AZ-900.
 
+![QRCode Conteúdo](img/cloud-imersion-itu.png)
+
 ## Detalhes do Evento
 
 - **Data**: 07 de outubro de 2025
@@ -21,6 +23,16 @@ Os materiais aqui contidos incluem apresentações, analogias divertidas, exempl
 - **Contato**: [linktr.ee/nizola](http://linktr.ee/nizola)  
 
 Márcio guiará os participantes através de conceitos teóricos, analogias práticas e hands-on, compartilhando sua vasta experiência em desenvolvimento e arquitetura de soluções em nuvem.
+
+Algumas de nossas comunidades técnicas (links para Meetup e YouTube):
+- [Meetup Itu Developers](https://www.meetup.com/pt-BR/Itu-Developers)
+- [.NET São Paulo](https://www.meetup.com/dotnet-Sao-Paulo/)
+- [Azure Talks](https://www.meetup.com/azure-talks/)
+- [DevOps Professionals](https://www.meetup.com/DevOps-Professionals/)
+- [Canal .NET](https://www.youtube.com/canaldotnet)
+- [Azure na Prática](https://www.youtube.com/azurenapratica)
+- [Coding Night](https://www.youtube.com/codingnight)
+- [AzureBrasil Cloud](https://www.youtube.com/@azurebrasilcloud)
 
 ## Conteúdo do Evento
 
