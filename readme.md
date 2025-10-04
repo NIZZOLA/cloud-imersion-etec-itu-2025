@@ -24,6 +24,7 @@ Os materiais aqui contidos incluem apresentações, analogias divertidas, exempl
 
 Márcio guiará os participantes através de conceitos teóricos, analogias práticas e hands-on, compartilhando sua vasta experiência em desenvolvimento e arquitetura de soluções em nuvem.
 
+## Comunidades Técnicas
 Algumas de nossas comunidades técnicas (links para Meetup e YouTube):
 - [Meetup Itu Developers](https://www.meetup.com/pt-BR/Itu-Developers)
 - [.NET São Paulo](https://www.meetup.com/dotnet-Sao-Paulo/)
