@@ -16,11 +16,11 @@ Os materiais aqui contidos incluem apresentações, analogias divertidas, exempl
 
 ## Apresentador
 
-**Márcio R. Nizola**  
+**Márcio R. Nizzola**  
 - **Cargo**: Arquiteto de Sistemas na C&T  
 - **Títulos**: 3x MVP Microsoft em Developers Technologies  
 - **Experiência**: Professor da ETEC Itu. Estuda programação desde 1989. Principais tecnologias: C#, PHP, Python, VB, JavaScript, Angular, Azure e AWS.  
-- **Contato**: [linktr.ee/nizola](http://linktr.ee/nizola)  
+- **Contato**: [linktr.ee/nizzola](http://linktr.ee/nizzola)  
 
 Márcio guiará os participantes através de conceitos teóricos, analogias práticas e hands-on, compartilhando sua vasta experiência em desenvolvimento e arquitetura de soluções em nuvem.
 
@@ -78,9 +78,9 @@ O workshop será dividido em módulos para facilitar o aprendizado progressivo, 
 ### Módulo 5: Considerações Finais e Próximos Passos
 - Aprendizado contínuo e o papel do Arquiteto de Nuvem
 - Exame de certificação AZ-900 (Azure Fundamentals)
-- Referências: Conceitos básicos AZ-900, Bootcamp Azure, Blog Nizola [](https://nizola.medium.com)
+- Referências: Conceitos básicos AZ-900, Bootcamp Azure, Blog Nizola [](https://marcionizzola.medium.com)
 
 Para clonar o repositório:
 ```bash
-git clone https://github.com/etec-itu/cloud-immersion-2025.git
-cd cloud-immersion-2025
+git clone https://github.com/NIZZOLA/cloud-imersion-etec-itu-2025
+cd cloud-imersion-etec-itu-2025
