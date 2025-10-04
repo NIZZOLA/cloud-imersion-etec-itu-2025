@@ -20,7 +20,7 @@ Os materiais aqui contidos incluem apresentações, analogias divertidas, exempl
 - **Cargo**: Arquiteto de Sistemas na C&T  
 - **Títulos**: 3x MVP Microsoft em Developers Technologies  
 - **Experiência**: Professor da ETEC Itu. Estuda programação desde 1989. Principais tecnologias: C#, PHP, Python, VB, JavaScript, Angular, Azure e AWS.  
-- **Contato**: [linktr.ee/nizzola](http://linktr.ee/nizzola)  
+- **Contato**: [linktr.ee/nizzola](http://linktr.ee/nizzola) :: [LinkedIn](https://www.linkedin.com/in/nizzola/) :: [GitHub](https://github.com/nizzola)
 
 Márcio guiará os participantes através de conceitos teóricos, analogias práticas e hands-on, compartilhando sua vasta experiência em desenvolvimento e arquitetura de soluções em nuvem.
 
