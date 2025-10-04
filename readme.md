@@ -1,6 +1,6 @@
 # Introdução à Nuvem - ETEC Itu
 
-![Banner Introdução à Nuvem](https://via.placeholder.com/800x200/0078D4/FFFFFF?text=Introdu%C3%A7%C3%A3o+%C3%A0+Nuvem+ETEC+Itu) 
+![Banner Introdução à Nuvem](logo.jpg) 
 
 ## Descrição
 
