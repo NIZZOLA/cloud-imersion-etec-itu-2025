@@ -1,7 +1,5 @@
 # Introdução à Nuvem - ETEC Itu
 
-![Banner Introdução à Nuvem](logo.jpg) 
-
 ## Descrição
 
 Bem-vindo ao repositório oficial do evento **Cloud Immersion: Introdução à Nuvem**, um workshop imersivo sobre computação em nuvem e Microsoft Azure, organizado pela **ETEC Itu**. Este evento é direcionado aos alunos dos cursos técnicos da escola, com o objetivo de introduzir conceitos fundamentais de **Cloud Computing**, tecnologias open source relevantes e a plataforma **Azure** de forma prática e acessível.
